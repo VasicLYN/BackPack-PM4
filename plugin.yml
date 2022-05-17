@@ -1,0 +1,14 @@
+name: BackPack
+version: 1.0.0
+main: BackPack\Main
+api: [4.0.0]
+author: VasicLYN
+
+commands:
+  backpack:
+    description: "BackPack Command"
+    permission: "backpack.use"
+
+permissions:
+  backpack.use:
+    description: "BackPack Permission"
